@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aneresarsenal.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/aneresarsenal.github.io/static/js/main.c8e78c19.chunk.js",
+    "main.js.map": "/aneresarsenal.github.io/static/js/main.c8e78c19.chunk.js.map",
+    "runtime-main.js": "/aneresarsenal.github.io/static/js/runtime-main.85821d6d.js",
+    "runtime-main.js.map": "/aneresarsenal.github.io/static/js/runtime-main.85821d6d.js.map",
+    "static/js/2.b7f80010.chunk.js": "/aneresarsenal.github.io/static/js/2.b7f80010.chunk.js",
+    "static/js/2.b7f80010.chunk.js.map": "/aneresarsenal.github.io/static/js/2.b7f80010.chunk.js.map",
+    "static/js/3.07470b18.chunk.js": "/aneresarsenal.github.io/static/js/3.07470b18.chunk.js",
+    "static/js/3.07470b18.chunk.js.map": "/aneresarsenal.github.io/static/js/3.07470b18.chunk.js.map",
+    "index.html": "/aneresarsenal.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/aneresarsenal.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b7f80010.chunk.js.LICENSE.txt": "/aneresarsenal.github.io/static/js/2.b7f80010.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aneresarsenal.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85821d6d.js",
+    "static/js/2.b7f80010.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c8e78c19.chunk.js"
+  ]
+}
